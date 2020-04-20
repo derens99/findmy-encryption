@@ -11,10 +11,10 @@ pip install virgil-crypto
 ## Usage
 
 ```bash
-python verify_signature.py
-python verify_signature_middleman.py
-python send_location.py
-python send_location_middleman.py
+python Examples/verify_signature.py
+python Examples/verify_signature_middleman.py
+python Examples/send_location.py
+python Examples/send_location_middleman.py
 ```
 
 ## Contributing
