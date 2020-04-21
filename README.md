@@ -1,4 +1,4 @@
-# Apple's FindMy Application Implementation
+# Apple's FindMy Application Implementation & Analysis
 
 ## Installation
 
